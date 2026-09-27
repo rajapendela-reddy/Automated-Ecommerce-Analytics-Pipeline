@@ -1,0 +1,7 @@
+run_time,input_file,rows_extracted,columns_extracted,missing_values,duplicate_rows,invalid_revenue,invalid_quantity,invalid_price,output_rows,output_columns,status,error
+2026-09-20 20:56:40.609701,,0,0,0,0,0,0,0,0,0,FAILED,'revenue'
+2026-09-20 21:01:12.638404,input\Ecommerce (2).xlsx,25000,39,0,0,0,0,0,25000,39,SUCCESS,
+2026-09-20 21:08:00.928142,input\Ecommerce (2).xlsx,25000,39,0,0,0,0,0,25000,39,SUCCESS,
+2026-09-20 21:21:02.360628,input\Ecommerce (2).xlsx,25000,39,0,0,0,0,0,25000,39,SUCCESS,
+2026-09-22 21:07:38.104075,input\Ecommerce (2).xlsx,25000,39,0,0,0,0,0,25000,39,SUCCESS,
+2026-09-25 21:07:39.124714,input\Ecommerce (2).xlsx,25000,39,0,0,0,0,0,25000,39,SUCCESS,
